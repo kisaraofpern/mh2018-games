@@ -7,3 +7,6 @@ Technical Specifications:
  - Written for the Arduino Mega 2560.
  - Packages:
    * https://github.com/bogde/HX711
+   
+Contributors:
+ - Peter Lorenz
